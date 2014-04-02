@@ -1,4 +1,4 @@
-text-expander-recipes-for-psychology
+Text Expander Recipes for Psychology
 ====================================
 
 Helpful Text Expander recipes for writing psychology papers.
