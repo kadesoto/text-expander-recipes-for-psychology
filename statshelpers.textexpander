@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>groupInfo</key>
+	<dict>
+		<key>expandAfterMode</key>
+		<integer>0</integer>
+		<key>groupName</key>
+		<string>Statistics</string>
+	</dict>
+	<key>snippetsTE2</key>
+	<array>
+		<dict>
+			<key>abbreviation</key>
+			<string>[r]</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2014-04-02T17:59:06Z</date>
+			<key>extraInfo</key>
+			<dict>
+				<key>RTF</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\i\fs24 \cf2 r
+\i0 (\cf0 %filltext:name=degrees of freedom%\cf2 ) = \cf0 %filltext:name=Pearson 
+\i r
+\i0 %\cf2 , 
+\i p
+\i0  = \cf0 .%filltext:name=
+\i p
+\i0 -value%}</string>
+			</dict>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>Pearson r</string>
+			<key>lastUsed</key>
+			<date>2014-04-02T18:02:22Z</date>
+			<key>modificationDate</key>
+			<date>2014-04-02T18:02:10Z</date>
+			<key>plainText</key>
+			<string>r(%filltext:name=degrees of freedom%) = %filltext:name=Pearson r%, p = .%filltext:name=p-value%</string>
+			<key>richText</key>
+			<data>
+			BAtzdHJlYW10eXBlZIHoA4QBQISEhBJOU0F0dHJpYnV0ZWRTdHJp
+			bmcAhIQITlNPYmplY3QAhZKEhIQITlNTdHJpbmcBlIQBK19yKCVm
+			aWxsdGV4dDpuYW1lPWRlZ3JlZXMgb2YgZnJlZWRvbSUpID0gJWZp
+			bGx0ZXh0Om5hbWU9UGVhcnNvbiByJSwgcCA9IC4lZmlsbHRleHQ6
+			bmFtZT1wLXZhbHVlJYaEAmlJAQGShISEDE5TRGljdGlvbmFyeQCU
+			hAFpA5KElpYHTlNDb2xvcoaShISEB05TQ29sb3IAlIQBYwaEA0BA
+			QISWlgZTeXN0ZW2GhJaWEGNvbnRyb2xUZXh0Q29sb3KGhJubA4QC
+			ZmYAAYaGkoSWlhBOU1BhcmFncmFwaFN0eWxlhpKEhIQQTlNQYXJh
+			Z3JhcGhTdHlsZQCUhARDQ0BTBACFAIaShJaWBk5TRm9udIaShISE
+			Bk5TRm9udB6UmSyEBVs0NGNdBgAAACQAAAD//kgAZQBsAHYAZQB0
+			AGkAYwBhAC0ATwBiAGwAaQBxAHUAZQCEAWYMmwCbAZsAmwCGhpcC
+			AZKEmJkDkpmSmpKfkqCSopKEpJkchAVbMjhjXQYAAAAUAAAA//5I
+			AGUAbAB2AGUAdABpAGMAYQCiDJsAmwGbAJsAhoaXAyKShJiZApKf
+			kqCSopKmhpcCBJcDF5cEAZKEmJkCkp+SoJKikqOGlwMBlwIClwEB
+			lwIDlwMQlwQBlwMHhg==
+			</data>
+			<key>snippetType</key>
+			<integer>1</integer>
+			<key>useCount</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>20BA11CA-B81C-4B9B-A22F-6AB1FD23C452</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>[anova]</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2014-04-02T17:50:21Z</date>
+			<key>extraInfo</key>
+			<dict>
+				<key>RTF</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 LucidaGrande;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\i\fs24 \cf2 F
+\i0 (%filltext:name=degrees of freedom 1%, %filltext:name=degrees of freedom 2%) = %filltext:name=F statistic%, 
+\i p
+\i0  = .%filltext:name=p-value%, 
+\i \cf0 \uc0\u951 \sub p\super 2
+\f1\i0\fs20  
+\fs24 \nosupersub =
+\f0 \cf2  %filltext:name=partial eta squared%}</string>
+			</dict>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>ANOVA</string>
+			<key>lastUsed</key>
+			<date>2014-04-02T18:02:28Z</date>
+			<key>modificationDate</key>
+			<date>2014-04-02T18:02:10Z</date>
+			<key>plainText</key>
+			<string>F(%filltext:name=degrees of freedom 1%, %filltext:name=degrees of freedom 2%) = %filltext:name=F statistic%, p = .%filltext:name=p-value%, ηp2 = %filltext:name=partial eta squared%</string>
+			<key>richText</key>
+			<data>
+			BAtzdHJlYW10eXBlZIHoA4QBQISEhBJOU0F0dHJpYnV0ZWRTdHJp
+			bmcAhIQITlNPYmplY3QAhZKEhIQITlNTdHJpbmcBlIQBK4G1AEYo
+			JWZpbGx0ZXh0Om5hbWU9ZGVncmVlcyBvZiBmcmVlZG9tIDElLCAl
+			ZmlsbHRleHQ6bmFtZT1kZWdyZWVzIG9mIGZyZWVkb20gMiUpID0g
+			JWZpbGx0ZXh0Om5hbWU9RiBzdGF0aXN0aWMlLCBwID0gLiVmaWxs
+			dGV4dDpuYW1lPXAtdmFsdWUlLCDOt3AyID0gJWZpbGx0ZXh0Om5h
+			bWU9cGFydGlhbCBldGEgc3F1YXJlZCWGhAJpSQEBkoSEhAxOU0Rp
+			Y3Rpb25hcnkAlIQBaQKShJaWBk5TRm9udIaShISEBk5TRm9udB6U
+			mSyEBVs0NGNdBgAAACQAAAD//kgAZQBsAHYAZQB0AGkAYwBhAC0A
+			TwBiAGwAaQBxAHUAZQCEAWYMhAFjAJ0BnQCdAIaShJaWB05TQ29s
+			b3KGkoSEhAdOU0NvbG9yAJSdBoQDQEBAhJaWBlN5c3RlbYaElpYQ
+			Y29udHJvbFRleHRDb2xvcoaEnp0DhAJmZgABhoaGlwJskoSYmQKS
+			mZKEm5kchAVbMjhjXQYAAAAUAAAA//5IAGUAbAB2AGUAdABpAGMA
+			YQCcDJ0AnQGdAJ0AhpKckp2GlwEBlwIdlwMBkoSYmQGSmZKahpcE
+			AZKEmJkCkpmSmpKElpYNTlNTdXBlclNjcmlwdIaShISECE5TTnVt
+			YmVyAISEB05TVmFsdWUAlIQBKoSEAXGl/4aGlwUBkoSYmQKSppKE
+			qKSqpQGGkpmSmoaXBgGShJiZApKmkqySmZKEm5kkhAVbMzZjXQYA
+			AAAaAAAA//5MAHUAYwBpAGQAYQBHAHIAYQBuAGQAZQAAAJwKnQCd
+			AZ0AnQCGhpcHAZKEmJkBkpmShJuZJKYGAAAAGgAAAP/+TAB1AGMA
+			aQBkAGEARwByAGEAbgBkAGUAAACcDJ0AnQGdAJ0AhoaXAiSG
+			</data>
+			<key>snippetType</key>
+			<integer>1</integer>
+			<key>useCount</key>
+			<integer>2</integer>
+			<key>uuidString</key>
+			<string>05C093A9-DF34-4F2A-A83E-F07F491A0D51</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>[msd]</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2014-04-02T17:48:08Z</date>
+			<key>extraInfo</key>
+			<dict>
+				<key>RTF</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf2 (
+\i M
+\i0  = %filltext:name=mean%, 
+\i SD
+\i0  = %filltext:name=standard deviation%)}</string>
+			</dict>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>Mean and Standard Deviation</string>
+			<key>lastUsed</key>
+			<date>2014-04-02T18:02:35Z</date>
+			<key>modificationDate</key>
+			<date>2014-04-02T18:02:10Z</date>
+			<key>plainText</key>
+			<string>(M = %filltext:name=mean%, SD = %filltext:name=standard deviation%)</string>
+			<key>richText</key>
+			<data>
+			BAtzdHJlYW10eXBlZIHoA4QBQISEhBJOU0F0dHJpYnV0ZWRTdHJp
+			bmcAhIQITlNPYmplY3QAhZKEhIQITlNTdHJpbmcBlIQBK0MoTSA9
+			ICVmaWxsdGV4dDpuYW1lPW1lYW4lLCBTRCA9ICVmaWxsdGV4dDpu
+			YW1lPXN0YW5kYXJkIGRldmlhdGlvbiUphoQCaUkBAZKEhIQMTlNE
+			aWN0aW9uYXJ5AJSEAWkCkoSWlgZOU0ZvbnSGkoSEhAZOU0ZvbnQe
+			lJkchAVbMjhjXQYAAAAUAAAA//5IAGUAbAB2AGUAdABpAGMAYQCE
+			AWYMhAFjAJ0BnQCdAIaShJaWB05TQ29sb3KGkoSEhAdOU0NvbG9y
+			AJSdBoQDQEBAhJaWBlN5c3RlbYaElpYQY29udHJvbFRleHRDb2xv
+			coaEnp0DhAJmZgABhoaGlwIBkoSYmQKSmZKEm5kshAVbNDRjXQYA
+			AAAkAAAA//5IAGUAbAB2AGUAdABpAGMAYQAtAE8AYgBsAGkAcQB1
+			AGUAnAydAJ0BnQCdAIaSnJKdhpcBGZcCApcBJoY=
+			</data>
+			<key>snippetType</key>
+			<integer>1</integer>
+			<key>useCount</key>
+			<integer>1</integer>
+			<key>uuidString</key>
+			<string>6C75AF6D-496B-4565-8751-1DE21ACF2830</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>[m]</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2014-04-02T17:48:08Z</date>
+			<key>extraInfo</key>
+			<dict>
+				<key>RTF</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf2 (
+\i M
+\i0  = %filltext:name=mean%)}</string>
+			</dict>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>Mean</string>
+			<key>lastUsed</key>
+			<date>2014-04-02T18:02:40Z</date>
+			<key>modificationDate</key>
+			<date>2014-04-02T18:02:10Z</date>
+			<key>plainText</key>
+			<string>(M = %filltext:name=mean%)</string>
+			<key>richText</key>
+			<data>
+			BAtzdHJlYW10eXBlZIHoA4QBQISEhBJOU0F0dHJpYnV0ZWRTdHJp
+			bmcAhIQITlNPYmplY3QAhZKEhIQITlNTdHJpbmcBlIQBKxooTSA9
+			ICVmaWxsdGV4dDpuYW1lPW1lYW4lKYaEAmlJAQGShISEDE5TRGlj
+			dGlvbmFyeQCUhAFpApKElpYGTlNGb250hpKEhIQGTlNGb250HpSZ
+			HIQFWzI4Y10GAAAAFAAAAP/+SABlAGwAdgBlAHQAaQBjAGEAhAFm
+			DIQBYwCdAZ0AnQCGkoSWlgdOU0NvbG9yhpKEhIQHTlNDb2xvcgCU
+			nQaEA0BAQISWlgZTeXN0ZW2GhJaWEGNvbnRyb2xUZXh0Q29sb3KG
+			hJ6dA4QCZmYAAYaGhpcCAZKEmJkCkpmShJuZLIQFWzQ0Y10GAAAA
+			JAAAAP/+SABlAGwAdgBlAHQAaQBjAGEALQBPAGIAbABpAHEAdQBl
+			AJwMnQCdAZ0AnQCGkpySnYaXARiG
+			</data>
+			<key>snippetType</key>
+			<integer>1</integer>
+			<key>useCount</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>12D1A990-FFBE-4D08-9BEF-E9703FA6C007</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>[ttest]</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2014-04-02T17:43:19Z</date>
+			<key>extraInfo</key>
+			<dict>
+				<key>RTF</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\i\fs24 \cf2 t
+\i0 (%filltext:name=degrees of freedom%) = %filltext:name=t statistic%, 
+\i p
+\i0  = .%filltext:name=p-value%, 
+\i d
+\i0  = %filltext:name=Cohen's d%}</string>
+			</dict>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>T-Test</string>
+			<key>lastUsed</key>
+			<date>2014-04-02T18:02:45Z</date>
+			<key>modificationDate</key>
+			<date>2014-04-02T18:02:10Z</date>
+			<key>plainText</key>
+			<string>t(%filltext:name=degrees of freedom%) = %filltext:name=t statistic%, p = .%filltext:name=p-value%, d = %filltext:name=Cohen's d%</string>
+			<key>richText</key>
+			<data>
+			BAtzdHJlYW10eXBlZIHoA4QBQISEhBJOU0F0dHJpYnV0ZWRTdHJp
+			bmcAhIQITlNPYmplY3QAhZKEhIQITlNTdHJpbmcBlIQBK4GAAHQo
+			JWZpbGx0ZXh0Om5hbWU9ZGVncmVlcyBvZiBmcmVlZG9tJSkgPSAl
+			ZmlsbHRleHQ6bmFtZT10IHN0YXRpc3RpYyUsIHAgPSAuJWZpbGx0
+			ZXh0Om5hbWU9cC12YWx1ZSUsIGQgPSAlZmlsbHRleHQ6bmFtZT1D
+			b2hlbidzIGQlhoQCaUkBAZKEhIQMTlNEaWN0aW9uYXJ5AJSEAWkC
+			koSWlgZOU0ZvbnSGkoSEhAZOU0ZvbnQelJkshAVbNDRjXQYAAAAk
+			AAAA//5IAGUAbAB2AGUAdABpAGMAYQAtAE8AYgBsAGkAcQB1AGUA
+			hAFmDIQBYwCdAZ0AnQCGkoSWlgdOU0NvbG9yhpKEhIQHTlNDb2xv
+			cgCUnQaEA0BAQISWlgZTeXN0ZW2GhJaWEGNvbnRyb2xUZXh0Q29s
+			b3KGhJ6dA4QCZmYAAYaGhpcCRJKEmJkCkpmShJuZHIQFWzI4Y10G
+			AAAAFAAAAP/+SABlAGwAdgBlAHQAaQBjAGEAnAydAJ0BnQCdAIaS
+			nJKdhpcBAZcCHZcBAZcCHIY=
+			</data>
+			<key>snippetType</key>
+			<integer>1</integer>
+			<key>useCount</key>
+			<integer>2</integer>
+			<key>uuidString</key>
+			<string>E91DE7C4-7675-4645-8986-7D5F5D08D007</string>
+		</dict>
+	</array>
+</dict>
+</plist>
